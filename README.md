@@ -6,3 +6,4 @@
 ![page-2](public/assets/images/Capture-2.PNG)
 
 ## Heroku Page
+https://note-takerx.herokuapp.com
